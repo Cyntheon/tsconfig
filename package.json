@@ -1,5 +1,5 @@
 {
-  "name": "@cyntheon/eslint-config-typescript",
+  "name": "@cyntheon/tsconfig",
   "version": "2.1.0",
   "description": "An ESLint config for TypeScript",
   "homepage": "https://github.com/Cyntheon/eslint-config-typescript",

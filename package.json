@@ -11,7 +11,7 @@
   "author": "Cyntheon",
   "files": [
     "LICENSE",
-    "tsconfig.json",
+    "tsconfig.base.json",
     "tsconfig.next.json",
     "README.md"
   ],

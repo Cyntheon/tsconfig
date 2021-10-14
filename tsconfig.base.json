@@ -4,7 +4,7 @@
     "allowJs": true,
     "checkJs": true,
     "downlevelIteration": true,
-    "isolatedModules": false,
+    "isolatedModules": true,
     "lib": [
       "DOM",
       "DOM.Iterable",

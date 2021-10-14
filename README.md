@@ -1,2 +1,2 @@
-# eslint-config-typescript
-An ESLint config for TypeScript
+# tsconfig
+A preset for tsconfig.json

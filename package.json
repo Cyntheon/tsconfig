@@ -1,6 +1,6 @@
 {
   "name": "@cyntheon/tsconfig",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "A preset for tsconfig.json",
   "homepage": "https://github.com/Cyntheon/tsconfig",
   "repository": {
@@ -17,6 +17,6 @@
     "README.md"
   ],
   "peerDependencies": {
-    "typescript": "^4"
+    "typescript": "~4"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "@cyntheon/tsconfig",
-  "version": "2.2.0",
+  "version": "2.2.2",
   "description": "A preset for tsconfig.json",
   "homepage": "https://github.com/Cyntheon/tsconfig",
   "repository": {

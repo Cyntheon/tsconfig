@@ -13,6 +13,7 @@
     "LICENSE",
     "tsconfig.base.json",
     "tsconfig.next.json",
+    "tsconfig.node.json",
     "README.md"
   ],
   "peerDependencies": {
